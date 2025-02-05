@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sylviavitoria&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Sylvia Vitória github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylviavitoria&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/lucas-azevedo-ba3617263/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/sylviavitoria/)
 
 </div>
 
